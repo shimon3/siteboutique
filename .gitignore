@@ -1,0 +1,22 @@
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Fichiers temporaires et logs
+*.tmp
+*.log
+*.bak
+
+# Outils locaux (au cas où)
+node_modules/
+.wrangler/
+.env
+.env.*
